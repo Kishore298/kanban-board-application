@@ -1,0 +1,440 @@
+{
+  "boards": [
+    {
+      "name": "Study DSA",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Learn Arrays",
+              "description": "Study basic array operations like insertion, deletion, and searching.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Array insertion",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Array deletion",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Array search",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Learn Linked Lists",
+              "description": "Understand the concepts of singly and doubly linked lists.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Singly linked list operations",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Doubly linked list operations",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Learn Stacks",
+              "description": "Study stack operations and its usage in algorithms.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Stack push and pop",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Stack applications",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Learn Queues",
+              "description": "Study queue operations and their real-world use cases.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Queue enqueue and dequeue",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Queue applications",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": [
+            {
+              "title": "Learn Recursion",
+              "description": "Understand the concept of recursion and solve recursive problems.",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Factorial using recursion",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Fibonacci using recursion",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Learn Sorting Algorithms",
+              "description": "Study and implement various sorting algorithms.",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Bubble Sort",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Merge Sort",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Learn Binary Search",
+              "description": "Study binary search and its applications in sorted arrays.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Binary search on sorted array",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Learn Graphs",
+              "description": "Study graph data structure and algorithms like DFS and BFS.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Graph traversal",
+                  "isCompleted": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Javascript revision",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Study JavaScript Basics",
+              "description": "Review fundamental concepts of JavaScript.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Variables and Data Types",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Operators in JavaScript",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Study Functions in JavaScript",
+              "description": "Understand the different types of functions in JavaScript.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Function declarations",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Arrow functions",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Study JavaScript Arrays",
+              "description": "Deep dive into arrays and their methods.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Array methods",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Array iteration",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": [
+            {
+              "title": "Study Closures",
+              "description": "Understand closures and their use cases in JavaScript.",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Closures explained",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Using closures in JavaScript",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Study Asynchronous JavaScript",
+              "description": "Learn about callbacks, promises, and async/await.",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Callbacks in JavaScript",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Async/Await",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Study DOM Manipulation",
+              "description": "Learn about manipulating the DOM in JavaScript.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Selecting DOM elements",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Modifying DOM elements",
+                  "isCompleted": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React JS revision",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Study React Basics",
+              "description": "Review basic concepts of React like components and JSX.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Components and JSX",
+                  "isCompleted": false
+                },
+                {
+                  "title": "State and Props",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Study React Lifecycle Methods",
+              "description": "Learn about the lifecycle methods in React.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "ComponentDidMount",
+                  "isCompleted": false
+                },
+                {
+                  "title": "ComponentWillUnmount",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Study React Hooks",
+              "description": "Learn and implement React Hooks like useState and useEffect.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "useState hook",
+                  "isCompleted": false
+                },
+                {
+                  "title": "useEffect hook",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": [
+            {
+              "title": "Study Context API",
+              "description": "Learn how to use Context API for state management.",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Context creation",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Context consumer",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Study React Router",
+              "description": "Learn how to handle routing in React applications.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Setup React Router",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Create routes",
+                  "isCompleted": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Study Next JS",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Learn Next.js Basics",
+              "description": "Understand the basic setup and folder structure in Next.js.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Setup Next.js project",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Understanding pages and components",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Learn Static Generation",
+              "description": "Learn how to use Static Generation in Next.js.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Static props",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Static paths",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Learn Server-side Rendering",
+              "description": "Understand server-side rendering and its advantages.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Server-side props",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Dynamic routing",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": [
+            {
+              "title": "Learn API Routes",
+              "description": "Understand how to create API routes in Next.js.",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Create API routes",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Fetch data from API",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Learn Next.js Deployment",
+              "description": "Learn how to deploy Next.js applications.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Deploy to Vercel",
+                  "isCompleted": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
